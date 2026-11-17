@@ -1,14 +1,15 @@
-I'm studying CS at UMD.
+I'm studying CS at UMD.<br>
+<br>
+Here's what I'm doing:<br>
+🤖 Nimbotics (Founder): shared robotics experiences<br>
+🛰️ MITRE (Software Engineer): mitre x umd adc<br>
+🎓 University of Maryland (TA - Software Development with GenAI): ai powered project grading automation x development<br>
+🔬 Waters Corporation (Engineering): r&d x infrastructure for fda-approved machines<br>
+🚗 Johns Hopkins APL (Engineering): vehicle automation + ml classifications<br>
+<br>
+<br>
+Love to build random things! Take a look! 👀<br>
 
-Here's what I'm doing:
-
-🤖 Nimbotics (Founder): shared robotics experiences
-🛰️ MITRE (Software Engineer): mitre x umd adc
-🎓 University of Maryland (TA - Software Development with GenAI): ai powered project grading automation x development
-🔬 Waters Corporation (Engineering): r&d x infrastructure for fda-approved machines
-🚗 Johns Hopkins APL (Engineering): vehicle automation + ml classifications
-
-Love to build random things! Take a look! 👀
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adamzeineldin/" target="_blank">

@@ -30,6 +30,24 @@ Love to build random things! Take a look! 👀<br>
       height="42"
     />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/adamzeineldin" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/x/000000"
+      alt="X"
+      width="42"
+      height="42"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://azeineld.com" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg"
+      alt="Website"
+      width="42"
+      height="42"
+    />
+  </a>
 </p>
 
 <!-- pacman -->

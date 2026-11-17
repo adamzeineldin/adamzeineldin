@@ -1,4 +1,14 @@
-I'm at University of Maryland – College Park studying Computer Science with a minor in General Business. I enjoy building things, from full-stack apps and machine learning systems to tools that connect software with the physical world. I'm especially interested in software engineering and AI/ML, and I'm always looking for something new to build or learn.
+I'm studying CS at UMD.
+
+Here's what I'm doing:
+
+🤖 Nimbotics (Founder): shared robotics experiences
+🛰️ MITRE (Software Engineer): mitre x umd adc
+🎓 University of Maryland (TA - Software Development with GenAI): ai powered project grading automation x development
+🔬 Waters Corporation (Engineering): r&d x infrastructure for fda-approved machines
+🚗 Johns Hopkins APL (Engineering): vehicle automation + ml classifications
+
+Love to build random things! Take a look! 👀
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adamzeineldin/" target="_blank">

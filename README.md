@@ -2,7 +2,6 @@ I'm studying CS at UMD.<br>
 <br>
 Here's what I'm doing:<br>
 
-🤖 Nimbotics (Founder): shared robotics experiences<br>
 🛰️ MITRE (Software Engineer): mitre x umd adc<br>
 🎓 University of Maryland (TA - Software Development with GenAI): ai powered project grading automation x development<br>
 🔬 Waters Corporation (Engineering): r&d x infrastructure for fda-approved machines<br>
